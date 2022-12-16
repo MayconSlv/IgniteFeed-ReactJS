@@ -104,8 +104,13 @@
     transition: .1s;
 }
 
-.form button[type="submit"]:hover {
+.form button[type="submit"]:not(:disabled):hover {
     background: var(--green-300)
+}
+
+.form button[type="submit"]:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
 }
 
 .form:focus-within footer { /* o focus-within vai fazer com que qualquer elemento dentro de '.form' quando estiver em focus, aplique as seguintes estilizações no elemento escolhido (o footer)*/
