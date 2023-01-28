@@ -7,7 +7,7 @@ Primeiro projeto desenvolvendo com ReactJS pela trilha Ignite da Rocketseat. É 
 
 ##
 
-<img src="ignite-feed.gif"/>
+<img src="./src/assets/ignite-feed.gif"/>
 
 ## 🔨Ferramentas:
  - JavaScript
