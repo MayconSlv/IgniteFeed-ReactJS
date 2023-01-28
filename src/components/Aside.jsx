@@ -8,7 +8,7 @@ export function Aside() {
             <img src="https://images.unsplash.com/photo-1603468620905-8de7d86b781e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=50" />
 
             <div className={style.profile}>
-                <Avatar src="https://github.com/Diego3g.png" />
+                <Avatar src="https://github.com/MayconSlv.png" />
 
                 <strong>Maycon Silva</strong>
                 <span>Web Developer</span>
